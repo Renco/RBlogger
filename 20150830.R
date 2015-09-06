@@ -23,7 +23,7 @@ glimpse(gender) #This is handy, it depends on package dplyr
 
 tail(gender)
 
-#Replace tk values into NAs, which is R-compatible
+#Replace tk values with NAs, which is R-compatible
 #gender <- mutate_each(gender,funs(as.numeric))
 #another handy function in dplyr
 #somehow doesn't work with this data
