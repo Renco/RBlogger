@@ -55,3 +55,8 @@ lines(icecream$temp, log.lin.pred, col="red", lwd=2)
 legend(x="topleft", bty="n", lwd=c(2,2), lty=c(NA,1),
        legend=c("observation", "log-transformed LM"),
        col=c("#00526D","red"), pch=c(1,NA))
+       
+       
+       
+       
+###test pull online
